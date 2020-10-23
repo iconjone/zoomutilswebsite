@@ -4,7 +4,7 @@
       <v-col class="mb-4" lg="6" cols="12">
         <h1 :class="displayValue" style="color:white;">
           The only way to <b class="font-weight-medium">keep track</b> of,
-          <b class="font-weight-medium">notify</b> and
+          <b class="font-weight-medium">notify</b>, and
           <b class="font-weight-medium">launch</b> your meetings, all in
           <b class="font-weight-medium">one</b>
           extension.
@@ -171,13 +171,13 @@
         color="primary"
         @click="
           openWindow(
-            'https://www.kens5.com/article/news/local/texas-am-student-creates-chrome-browser-extension-for-zoom-meetings/499-77d4de24-416e-4133-a2cc-1ec02168e15c'
+            'https://www.kxxv.com/brazos/aggie-invents-browser-extension-to-make-accessing-zoom-meeting-information-easier'
           )
         "
       >
         <v-img
-          src="../assets/AsSeenOn/kens5.png"
-          width="225px"
+          src="../assets/AsSeenOn/25abc.png"
+          width="175px"
           class="ma-2"
         ></v-img>
       </v-card>
